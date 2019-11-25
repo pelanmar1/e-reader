@@ -1,0 +1,1 @@
+{"dependencyGraph":[{"name":"file_picker","dependencies":[]},{"name":"flutter_document_picker","dependencies":[]},{"name":"path_provider","dependencies":[]},{"name":"permission_handler","dependencies":[]},{"name":"shared_preferences","dependencies":[]}]}
